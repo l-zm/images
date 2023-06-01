@@ -7,3 +7,6 @@ https://raw.githubusercontent.com/l-zm/images/main/Qure/Li%20Xiansen's%20Sugar%2
 https://raw.githubusercontent.com/l-zm/images/main/Qure/Li%20Xiansen's%20Sugar%20Dark.json
 
 https://raw.githubusercontent.com/l-zm/images/main/Qure/Li%20Xiansen's%20Sugar%20mini.json
+
+
+转载自: https://github.com/Koolson/Qure
